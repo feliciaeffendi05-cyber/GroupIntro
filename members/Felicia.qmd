@@ -27,13 +27,13 @@ title: "Felicia"
 
     <div class="content-x">
       <h2>About me</h2>
-      <p>I'm someone who loves meeting new people,making meaningful connections and learning from different experiences and perspectives.I'm also interested in how technology and business come together to solve real-world problems.I enjoy exploring new opportunities, working with people and stepping outside outside my comfort zone.</p>
+      <p>I'm someone who loves meeting new people, making meaningful connections, and learning from different experiences and perspectives. I'm also interested in how technology and business come together to solve real-world problems. I enjoy exploring new opportunities, working with people, and stepping outside my comfort zone.</p>
 
       <h2>Hobbies</h2>
       <div class="hobby-grid">
-        <div class="hobby"><span class="ico"><i class="bi bi-fire"></i></span>Hunting a spicy food</div>
-        <div class="hobby"><span class="ico"><i class="bi bi-airplane"></i></span>Travel to different countries</div>
-        <div class="hobby"><span class="ico"><i class="bi bi-camera"></i></span>Love to taking pictures</div>
+        <div class="hobby"><span class="ico"><i class="bi bi-fire"></i></span>Hunting for spicy food</div>
+        <div class="hobby"><span class="ico"><i class="bi bi-airplane"></i></span>Traveling to different countries</div>
+        <div class="hobby"><span class="ico"><i class="bi bi-camera"></i></span>Taking pictures</div>
         <div class="hobby"><span class="ico"><i class="bi bi-tv"></i></span>Watching K&#8209;drama and C&#8209;drama</div>
       </div>
 

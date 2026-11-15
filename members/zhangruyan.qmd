@@ -1,0 +1,52 @@
+---
+title: "張茹艷 (Khin Khin Sein)"
+---
+
+```{=html}
+<section class="band sand" style="padding: 1.25rem 0;">
+  <div class="container-x crumbs"><a href="../index.html">Home</a> / <a href="../members.html">Members</a> / 張茹艷 (Khin Khin Sein)</div>
+</section>
+
+<section class="band" style="padding-top: 3rem;">
+  <div class="container-x profile-grid">
+
+    <div class="side-card">
+      <div class="photo"><img src="../images/zhangruyan.jpg" alt="張茹艷 (Khin Khin Sein)"></div>
+      <div class="inner">
+        <span class="flag-code">MM · Myanmar</span>
+        <h1>張茹艷 (Khin Khin Sein)</h1>
+        <p class="study">Management Information Systems</p>
+        <ul class="facts">
+          <li><span>Country</span><span>Myanmar</span></li>
+          <li><span>Studies</span><span>Management Information Systems</span></li>
+          <li><span>Year</span><span>Final year</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="content-x">
+      <h2>About me</h2>
+      <p>I'm from the Department of Information Management. I enjoy trying new things and taking on new challenges. I enjoy getting to know others and building meaningful connections. Also I usually don't wear my glasses outside of class. So if I don't say hi when I see you, I'm not ignoring you. I just really can't see you! Haha.🤓</p>
+
+      <h2>Hobbies</h2>
+      <div class="hobby-grid">
+        <div class="hobby"><span class="ico"><i class="bi bi-airplane"></i></span>Traveling</div>
+        <div class="hobby"><span class="ico"><i class="bi bi-camera"></i></span>Photography</div>
+        <div class="hobby"><span class="ico"><i class="bi bi-film"></i></span>Watching movies and dramas</div>
+        <div class="hobby"><span class="ico"><i class="bi bi-moon-stars"></i></span>Daydreaming</div>
+        </div>
+
+      <h2>Skills</h2>
+      <div class="skill-grid">
+        <div class="skill">Visual design</div>
+        <div class="skill">Data visualisation</div>
+        <div class="skill">Creative thinking</div>
+        <div class="skill">Project planning</div>
+      </div>
+
+      <p style="margin-top: 2.75rem;"><a href="../members.html">← Back to all members</a></p>
+    </div>
+
+  </div>
+</section>
+```

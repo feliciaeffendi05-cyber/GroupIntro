@@ -7,7 +7,7 @@ title: "About"
   <div class="container-x">
     <p class="eyebrow">About</p>
     <h1>About the MIS team</h1>
-    <p class="lead">Two friends from Myanmar and Indonesia, now in our final year together.</p>
+    <p class="lead">Two friends from Myanmar and Indonesia, now in our final year together. 張茹艷 (Khin Khin Sein) comes from Myanmar and Felicia comes from Indonesia, and we both study Management Information Systems.</p>
   </div>
 </section>
 

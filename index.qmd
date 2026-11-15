@@ -20,10 +20,10 @@ title: "MIS Team"
       <div class="shape"></div>
       <!-- Felicia's photo -->
       <div class="pic a"><img src="images/felicia.jpg" alt="Felicia's profile photo"></div>
-      <!-- Thiri's photo: replace TA with <img src="images/thiri.jpg" alt="Thiri Aung"> -->
-      <div class="pic b">TA</div>
+      
+      <div class="pic b"><img src="images/zhangruyan.jpg" alt="張茹艷 (Khin Khin Sein)"></div>
       <div class="tag-name a"><span>ID</span>Felicia</div>
-      <div class="tag-name b"><span>MM</span>Thiri Aung</div>
+      <div class="tag-name b"><span>MM</span>張茹艷 (Khin Khin Sein)</div>
     </div>
   </div>
 </section>
@@ -47,15 +47,15 @@ title: "MIS Team"
       <p>Two different backgrounds, one goal. Select a profile to learn more about each of us.</p>
     </div>
     <div class="duo">
-      <a class="feature" href="members/thiri.html">
-        <!-- To use a photo: put it in images/ and replace TA with <img src="images/thiri.jpg" alt="Thiri Aung"> -->
-      <div class="photo">TA</div>
+      <a class="feature" href="members/zhangruyan.html">
+       
+     <div class="photo"><img src="images/zhangruyan.jpg" alt="張茹艷 (Khin Khin Sein)"></div>
         <div class="body">
           <span class="flag-code">MM · Myanmar</span>
-          <h3>Thiri Aung</h3>
-          <p class="study">Communication Design</p>
-          <p class="bio">Thiri is responsible for the team's visual identity. She designs our slides, graphics, and the layout of this website, making sure everything looks consistent and easy to read. She cares about details and believes good design makes ideas easier to understand.</p>
-          <div class="tags"><span class="tag">Visual design</span><span class="tag">Figma and Canva</span><span class="tag">Illustration</span><span class="tag">Data visualisation</span></div>
+          <h3>張茹艷 (Khin Khin Sein)</h3>
+          <p class="study">Management Information Systems</p>
+          <p class="bio">I'm from the Department of Information Management. I enjoy trying new things and taking on new challenges. I enjoy getting to know others and building meaningful connections. Also I usually don't wear my glasses outside of class. So if I don't say hi when I see you, I'm not ignoring you. I just really can't see you! Haha.🤓</p>
+           <div class="tags"><span class="tag">Visual design</span><span class="tag">Data visualisation</span><span class="tag">Travel</span><span class="tag">Creative thinking</span></div>
           <span class="more">View profile →</span>
         </div>
       </a>
@@ -65,7 +65,7 @@ title: "MIS Team"
           <span class="flag-code">ID · Indonesia</span>
           <h3>Felicia</h3>
           <p class="study">Management Information Systems</p>
-          <p class="bio">I'm someone who loves meeting new people,making meaningful connections and learning from different experiences and perspectives.I'm also interested in how technology and business come together to solve real-world problems.I enjoy exploring new opportunities, working with people and stepping outside outside my comfort zone.</p>
+          <p class="bio">I'm someone who loves meeting new people, making meaningful connections, and learning from different experiences and perspectives. I'm also interested in how technology and business come together to solve real-world problems. I enjoy exploring new opportunities, working with people, and stepping outside my comfort zone.</p>
           <div class="tags"><span class="tag">Data analysis</span><span class="tag">Project planning</span><span class="tag">Quarto</span><span class="tag">Presentation</span></div>
           <span class="more">View profile →</span>
         </div>
@@ -105,7 +105,7 @@ title: "MIS Team"
         <div class="code">MM</div>
         <h3>Myanmar</h3>
         <p>A country known for its golden pagodas and warm hospitality.</p>
-        <span class="who">Thiri Aung</span>
+        <span class="who">張茹艷 (Khin Khin Sein)</span>
       </div>
       <div class="country-x">
         <div class="big">ID</div>
