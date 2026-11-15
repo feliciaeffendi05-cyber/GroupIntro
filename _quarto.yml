@@ -2,20 +2,27 @@ project:
   type: website
 
 website:
-  title: "GroupIntro_Web"
+  title: "MIT Team"
+  favicon: images/favicon.svg
+  page-navigation: false
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: members.qmd
+        text: Members
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "© 2026 MIT Team · Group introduction project"
+    right: "Built with Quarto"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
+    title-block-banner: false
 
 editor: visual
-

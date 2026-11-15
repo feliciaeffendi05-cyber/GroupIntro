@@ -2,8 +2,59 @@
 title: "About"
 ---
 
-About this site
+```{=html}
+<section class="band soft tight">
+  <div class="container-x page-head">
+    <p class="eyebrow">About</p>
+    <h1>About the MIT team</h1>
+    <p>A small international team formed for a group introduction project, built as a website with Quarto.</p>
+  </div>
+</section>
 
-```{r}
-1 + 1
+<section class="band">
+  <div class="container-x about-grid">
+    <div>
+      <p class="eyebrow">Our story</p>
+      <h2 style="font-size: 1.8rem; margin: 0 0 1rem;">How we came together</h2>
+      <p>We met in class and quickly found out that each of us came from a different country:
+        Myanmar, Indonesia and Taiwan. We decided to turn that into our strength.</p>
+      
+    </div>
+    <div class="glance">
+      <h3>Project details</h3>
+      <ul class="facts" style="margin: 0;">
+        <li><span>Team</span><span>MIT Team</span></li>
+        <li><span>Members</span><span>3</span></li>
+        <li><span>Countries</span><span>Myanmar, Indonesia, Taiwan</span></li>
+        <li><span>Course</span><span>Course name</span></li>
+        <li><span>Built with</span><span>Quarto</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="band soft">
+  <div class="container-x">
+    <div class="section-head">
+      <p class="eyebrow">How we work</p>
+      <h2>Our values</h2>
+      <p>The principles that guide how we work together.</p>
+    </div>
+    <div class="value-grid">
+      <div class="value-x"><div class="n">01</div><h3>Collaboration</h3><p>We share the work fairly, support each other, and make decisions together.</p></div>
+      <div class="value-x"><div class="n">02</div><h3>Different perspectives</h3><p>Coming from three countries helps us see problems from more than one angle.</p></div>
+      <div class="value-x"><div class="n">03</div><h3>Continuous learning</h3><p>Every project is a chance to learn new tools and improve our skills.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="band dark tight">
+  <div class="container-x cta">
+    <div>
+      <h2>Get to know us</h2>
+      <p>Read each member's profile to learn about their role and skills.</p>
+    </div>
+    <a class="btn-x secondary" href="members.html">View members →</a>
+  </div>
+</section>
 ```

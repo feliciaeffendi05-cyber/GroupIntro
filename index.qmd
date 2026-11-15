@@ -1,11 +1,107 @@
 ---
-title: "GroupIntro_Web"
+title: "MIT Team"
 ---
 
-This is a Quarto website.
+```{=html}
+<!-- ===================== INTRO ===================== -->
+<section class="band soft">
+  <div class="container-x hero-grid">
+    <div>
+      <p class="eyebrow">Group introduction · MIT</p>
+      <h1>One team.<br>Three countries.</h1>
+      <p class="lead">We are the MIT team, three students from Myanmar, Indonesia and Taiwan
+        working together on one shared project. Each of us brings a different background and skill set.</p>
+      <div class="btn-row">
+        <a class="btn-x primary" href="members.html">Meet the team</a>
+        <a class="btn-x secondary" href="about.html">About us</a>
+      </div>
+    </div>
+    <div class="glance">
+      <h3>Team at a glance</h3>
+      <div class="stats">
+        <div><div class="num">3</div><div class="label">Members</div></div>
+        <div><div class="num">3</div><div class="label">Countries</div></div>
+        <div><div class="num">1</div><div class="label">Project</div></div>
+      </div>
+      <ul>
+          <li><span class="code">MM</span>Myanmar<span class="who">Thiri Aung</span></li>
+          <li><span class="code">ID</span>Indonesia<span class="who">Felicia</span></li>
+          <li><span class="code">TW</span>Taiwan<span class="who">Mei-Lin Chen</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<!-- ===================== TEAM ===================== -->
+<section class="band">
+  <div class="container-x">
+    <div class="section-head">
+      <p class="eyebrow">Our team</p>
+      <h2>The people behind the project</h2>
+      <p>Each member has a clear role. Select a profile to learn more about their background and skills.</p>
+    </div>
+    <div class="team-grid">
+    <a class="card-x" href="members/thiri.html">
+      <!-- To use a photo: put it in images/ and replace TA with <img src="images/thiri.jpg" alt="Thiri Aung"> -->
+      <div class="photo">TA</div>
+      <div class="card-body-x">
+        <p class="role">Designer</p>
+        <h3>Thiri Aung</h3>
+        <p class="from">Myanmar</p>
+        <p class="bio">Shapes how our work looks, from presentation slides to this website.</p>
+        <span class="more">View profile →</span>
+      </div>
+    </a>
+    <a class="card-x" href="members/Felicia.html">
+      <div class="photo">
+        <img src="IMG_1834 (1).JPG" alt="Felicia's profile photo">
+      </div>
+      <div class="card-body-x">
+        <h3>Anna Sari</h3>
+        <p class="from">Indonesia</p>
+        <span class="more">View profile →</span>
+      </div>
+    </a>
+    <a class="card-x" href="members/meilin.html">
+      <!-- To use a photo: put it in images/ and replace MC with <img src="images/meilin.jpg" alt="Mei-Lin Chen"> -->
+      <div class="photo">MC</div>
+      <div class="card-body-x">
+        <p class="role">Researcher</p>
+        <h3>Mei-Lin Chen</h3>
+        <p class="from">Taiwan</p>
+        <p class="bio">Finds and checks our sources, and writes up what the team discovers.</p>
+        <span class="more">View profile →</span>
+      </div>
+    </a>
+    </div>
+  </div>
+</section>
 
-```{r}
-1 + 1
+<!-- ===================== COUNTRIES ===================== -->
+<section class="band dark">
+  <div class="container-x">
+    <div class="section-head">
+      <p class="eyebrow">Where we come from</p>
+      <h2>Three countries, one shared goal</h2>
+      <p>Our different backgrounds help us look at problems from more than one perspective.</p>
+    </div>
+    <div class="country-grid">
+      <div class="country-x">
+        <span class="code">MM</span>
+        <h3>Myanmar</h3>
+        <p>Thiri Aung<br>Designer</p>
+      </div>
+      <div class="country-x">
+        <span class="code">ID</span>
+        <h3>Indonesia</h3>
+        <p>Felicia<br>MIS</p>
+      </div>
+      <div class="country-x">
+        <span class="code">TW</span>
+        <h3>Taiwan</h3>
+        <p>Mei-Lin Chen<br>Researcher</p>
+      </div>
+    </div>
+  </div>
+</section>
 ```

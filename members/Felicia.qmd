@@ -1,0 +1,57 @@
+---
+title: "Felicia"
+---
+
+```{=html}
+<section class="band soft crumb-band">
+  <div class="container-x">
+    <div class="crumbs"><a href="../index.html">Home</a> / <a href="../members.html">Members</a> / Felicia</div>
+  </div>
+</section>
+
+<section class="band" style="padding-top: 2.5rem;">
+  <div class="container-x profile-grid">
+
+    <div class="side-card">
+      <div class="photo">
+        <img src="IMG_1834 (1).JPG" alt="Felicia's profile photo">
+      </div>
+      <div class="inner">
+        <h1>Felicia</h1>
+        <ul class="facts">
+          <li><span>Country</span><span>Indonesia</span></li>
+          <li><span>Studies</span><span>Management Information Systems</span></li>
+          <li><span>Languages</span><span>Indonesian, English，Chinese</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="content-x">
+      <h2>About</h2>
+      <p>I'm someone who loves meeting new people,making meaningful connections and learning from different experiences and perspectives.I'm also interested in how technology and business come together to solve real-world problems.I enjoy exploring new opportunities, working with people and stepping outside outside my comfort zone.</p>
+
+      <h2>Hobby</h2>
+      <ul class="check-list">
+        <li>Hunting a spicy food </li>
+        <li>Travel to different countries</li>
+        <li>Love to taking pictures</li>
+        <li>Watching K-drama and C-drama</li>
+      </ul>
+
+      <h2>Skills</h2>
+      <div class="skill-grid">
+        <div class="skill">Data analysis<small>R, Excel</small></div>
+        <div class="skill">Project planning<small>Timelines, milestones</small></div>
+        <div class="skill">Quarto<small>Reports and websites</small></div>
+        <div class="skill">Presentation<small>Public speaking</small></div>
+      </div>
+
+      <h2>In their words</h2>
+      <blockquote class="quote">“You don't grow when everything is easy but you grow when everything is hard.”</blockquote>
+
+      <p style="margin-top: 2.5rem;"><a href="../members.html">← Back to all members</a></p>
+    </div>
+
+  </div>
+</section>
+```
