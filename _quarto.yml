@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "MIT Team"
+  title: "MIS Team"
   favicon: images/favicon.svg
   page-navigation: false
   navbar:
@@ -14,7 +14,7 @@ website:
       - href: about.qmd
         text: About
   page-footer:
-    left: "© 2026 MIT Team · Group introduction project"
+    left: "© 2026 MIS Team · Group introduction project"
     right: "Built with Quarto"
 
 format:

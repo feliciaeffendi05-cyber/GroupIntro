@@ -1,34 +1,40 @@
 ---
-title: "MIT Team"
+title: "MIS Team"
 ---
 
 ```{=html}
 <!-- ===================== INTRO ===================== -->
-<section class="band soft">
+<section class="band hero">
   <div class="container-x hero-grid">
     <div>
-      <p class="eyebrow">Group introduction · MIT</p>
-      <h1>One team.<br>Three countries.</h1>
-      <p class="lead">We are the MIT team, three students from Myanmar, Indonesia and Taiwan
+      <p class="eyebrow">Group introduction · MIS</p>
+      <h1>Two students.<br><em>Two countries.</em><br>One team.</h1>
+      <p class="lead">We are the MIS team, two final year students from Myanmar and Indonesia
         working together on one shared project. Each of us brings a different background and skill set.</p>
       <div class="btn-row">
         <a class="btn-x primary" href="members.html">Meet the team</a>
-        <a class="btn-x secondary" href="about.html">About us</a>
+        <a class="btn-x secondary" href="about.html">Our story</a>
       </div>
     </div>
-    <div class="glance">
-      <h3>Team at a glance</h3>
-      <div class="stats">
-        <div><div class="num">3</div><div class="label">Members</div></div>
-        <div><div class="num">3</div><div class="label">Countries</div></div>
-        <div><div class="num">1</div><div class="label">Project</div></div>
-      </div>
-      <ul>
-          <li><span class="code">MM</span>Myanmar<span class="who">Thiri Aung</span></li>
-          <li><span class="code">ID</span>Indonesia<span class="who">Felicia</span></li>
-          <li><span class="code">TW</span>Taiwan<span class="who">Mei-Lin Chen</span></li>
-      </ul>
+    <div class="collage">
+      <div class="shape"></div>
+      <!-- Felicia's photo -->
+      <div class="pic a"><img src="images/felicia.jpg" alt="Felicia's profile photo"></div>
+      <!-- Thiri's photo: replace TA with <img src="images/thiri.jpg" alt="Thiri Aung"> -->
+      <div class="pic b">TA</div>
+      <div class="tag-name a"><span>ID</span>Felicia</div>
+      <div class="tag-name b"><span>MM</span>Thiri Aung</div>
     </div>
+  </div>
+</section>
+
+<!-- ===================== NUMBERS ===================== -->
+<section class="band wine tight">
+  <div class="container-x stats-strip">
+    <div><div class="num">2</div><div class="label">Members</div></div>
+    <div><div class="num">2</div><div class="label">Countries</div></div>
+    <div><div class="num">4</div><div class="label">Years of friendship</div></div>
+    <div><div class="num">1</div><div class="label">Shared project</div></div>
   </div>
 </section>
 
@@ -38,69 +44,90 @@ title: "MIT Team"
     <div class="section-head">
       <p class="eyebrow">Our team</p>
       <h2>The people behind the project</h2>
-      <p>Each member has a clear role. Select a profile to learn more about their background and skills.</p>
+      <p>Two different backgrounds, one goal. Select a profile to learn more about each of us.</p>
     </div>
-    <div class="team-grid">
-    <a class="card-x" href="members/thiri.html">
-      <!-- To use a photo: put it in images/ and replace TA with <img src="images/thiri.jpg" alt="Thiri Aung"> -->
+    <div class="duo">
+      <a class="feature" href="members/thiri.html">
+        <!-- To use a photo: put it in images/ and replace TA with <img src="images/thiri.jpg" alt="Thiri Aung"> -->
       <div class="photo">TA</div>
-      <div class="card-body-x">
-        <p class="role">Designer</p>
-        <h3>Thiri Aung</h3>
-        <p class="from">Myanmar</p>
-        <p class="bio">Shapes how our work looks, from presentation slides to this website.</p>
-        <span class="more">View profile →</span>
-      </div>
-    </a>
-    <a class="card-x" href="members/Felicia.html">
-      <div class="photo">
-        <img src="IMG_1834 (1).JPG" alt="Felicia's profile photo">
-      </div>
-      <div class="card-body-x">
-        <h3>Anna Sari</h3>
-        <p class="from">Indonesia</p>
-        <span class="more">View profile →</span>
-      </div>
-    </a>
-    <a class="card-x" href="members/meilin.html">
-      <!-- To use a photo: put it in images/ and replace MC with <img src="images/meilin.jpg" alt="Mei-Lin Chen"> -->
-      <div class="photo">MC</div>
-      <div class="card-body-x">
-        <p class="role">Researcher</p>
-        <h3>Mei-Lin Chen</h3>
-        <p class="from">Taiwan</p>
-        <p class="bio">Finds and checks our sources, and writes up what the team discovers.</p>
-        <span class="more">View profile →</span>
-      </div>
-    </a>
+        <div class="body">
+          <span class="flag-code">MM · Myanmar</span>
+          <h3>Thiri Aung</h3>
+          <p class="study">Communication Design</p>
+          <p class="bio">Thiri is responsible for the team's visual identity. She designs our slides, graphics, and the layout of this website, making sure everything looks consistent and easy to read. She cares about details and believes good design makes ideas easier to understand.</p>
+          <div class="tags"><span class="tag">Visual design</span><span class="tag">Figma and Canva</span><span class="tag">Illustration</span><span class="tag">Data visualisation</span></div>
+          <span class="more">View profile →</span>
+        </div>
+      </a>
+      <a class="feature" href="members/Felicia.html">
+        <div class="photo"><img src="images/felicia.jpg" alt="Felicia's profile photo"></div>
+        <div class="body">
+          <span class="flag-code">ID · Indonesia</span>
+          <h3>Felicia</h3>
+          <p class="study">Management Information Systems</p>
+          <p class="bio">I'm someone who loves meeting new people,making meaningful connections and learning from different experiences and perspectives.I'm also interested in how technology and business come together to solve real-world problems.I enjoy exploring new opportunities, working with people and stepping outside outside my comfort zone.</p>
+          <div class="tags"><span class="tag">Data analysis</span><span class="tag">Project planning</span><span class="tag">Quarto</span><span class="tag">Presentation</span></div>
+          <span class="more">View profile →</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== JOURNEY ===================== -->
+<section class="band sand">
+  <div class="container-x">
+    <div class="section-head">
+      <p class="eyebrow">Our journey</p>
+      <h2>From first year to final year</h2>
+      <p>We have been friends since our first year, and now we are finishing university together.</p>
+    </div>
+    <div class="timeline">
+      <div class="step"><div class="dot"></div><div class="yr">Year 1</div><h3>We met</h3><p>We started university and quickly became friends.</p></div>
+      <div class="step"><div class="dot"></div><div class="yr">Year 2</div><h3>Learning together</h3><p>Classes, group assignments and long study sessions.</p></div>
+      <div class="step"><div class="dot"></div><div class="yr">Year 3</div><h3>Growing as a team</h3><p>Bigger projects taught us how to plan and work well together.</p></div>
+      <div class="step now"><div class="dot"></div><div class="yr">Year 4 · Now</div><h3>Final year</h3><p>Our last year together, and this group introduction website.</p></div>
     </div>
   </div>
 </section>
 
 <!-- ===================== COUNTRIES ===================== -->
-<section class="band dark">
+<section class="band ink">
   <div class="container-x">
     <div class="section-head">
       <p class="eyebrow">Where we come from</p>
-      <h2>Three countries, one shared goal</h2>
+      <h2>Two countries, one shared goal</h2>
       <p>Our different backgrounds help us look at problems from more than one perspective.</p>
     </div>
-    <div class="country-grid">
+    <div class="country-duo">
       <div class="country-x">
-        <span class="code">MM</span>
+        <div class="big">MM</div>
+        <div class="code">MM</div>
         <h3>Myanmar</h3>
-        <p>Thiri Aung<br>Designer</p>
+        <p>A country known for its golden pagodas and warm hospitality.</p>
+        <span class="who">Thiri Aung</span>
       </div>
       <div class="country-x">
-        <span class="code">ID</span>
+        <div class="big">ID</div>
+        <div class="code">ID</div>
         <h3>Indonesia</h3>
-        <p>Felicia<br>MIS</p>
+        <p>An archipelago of thousands of islands and hundreds of cultures.</p>
+        <span class="who">Felicia</span>
       </div>
-      <div class="country-x">
-        <span class="code">TW</span>
-        <h3>Taiwan</h3>
-        <p>Mei-Lin Chen<br>Researcher</p>
-      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== CALL TO ACTION ===================== -->
+<section class="band wine tight">
+  <div class="container-x cta">
+    <div>
+      <h2>Want to know us better?</h2>
+      <p>Read our full profiles and the story of how our team came together.</p>
+    </div>
+    <div class="btn-row">
+      <a class="btn-x light" href="members.html">View members</a>
+      <a class="btn-x secondary" href="about.html">About us</a>
     </div>
   </div>
 </section>
